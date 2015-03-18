@@ -1,0 +1,9 @@
+tạo SQL
+Tạo thư mục SQL trong htdocs
+Sửa file Vhost khai báo root C:\xampp\apache\conf\extra\httpd-vhosts.conf 
+  <VirtualHost *:80>
+  ServerName   wpbones
+  ServerAlias wpbones
+  DocumentRoot C:/xampp/htdocs/wpbones
+  </VirtualHost>
+  
