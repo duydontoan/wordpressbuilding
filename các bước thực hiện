@@ -6,4 +6,18 @@ Sửa file Vhost khai báo root C:\xampp\apache\conf\extra\httpd-vhosts.conf
   ServerAlias wpbones
   DocumentRoot C:/xampp/htdocs/wpbones
   </VirtualHost>
+  # tao thong so database
+  # them giao dien Bones ==> add themes
+  Active themes
+  
+//tai lieu ho tro theme Bones
+http://simplebits.com/notebook/2013/11/13/sass-book/ (BUY THIS)
+http://cognition.happycog.com/article/preprocess-this
+http://viget.com/inspire/sass-a-designers-perspective
+http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
+http://css-tricks.com/sass-style-guide/
+http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/
+//
+taoj cau truc site page - category - post
+  
   
